@@ -1,3 +1,26 @@
+# Store_it
+
+This project is being developed by following **Adrian Hajdin’s (JavaScript Mastery)** tutorial, with the goal of learning how to build a **cloud-based file management application** using **Next.js 14, Appwrite, and TailwindCSS**.
+
+The app provides secure authentication, file upload/management, and a modern responsive UI.
+
+## 🔑 Key Features
+- Authentication with Appwrite (signup / login / logout)
+- File upload and management (create, view and delete)
+- Appwrite database integration (`accountId` per file)
+- Responsive UI with **TailwindCSS** and **shadcn/ui**
+- Animated mobile sidebar navigation using `Sheet`
+- Secure logout with session handling
+
+## 🛠️ Tech Stack
+- Next.js 14  
+- TypeScript  
+- TailwindCSS  
+- shadcn/ui  
+- Appwrite
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
